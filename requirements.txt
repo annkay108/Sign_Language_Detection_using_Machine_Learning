@@ -12,7 +12,7 @@ cffi==1.12.3
 Click==7.0
 cryptography==2.7
 cycler==0.10.0
-Django==2.1
+Django==2.2.10
 django-formtools==2.1
 dnspython==1.16.0
 docutils==0.14

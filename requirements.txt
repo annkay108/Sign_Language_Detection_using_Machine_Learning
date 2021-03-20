@@ -32,7 +32,7 @@ h5py==2.9.0
 idna==2.7
 imagesize==1.1.0
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jmespath==0.9.4
 json2html==1.2.1
 Keras==2.2.4

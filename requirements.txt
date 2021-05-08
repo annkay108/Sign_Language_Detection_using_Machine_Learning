@@ -16,7 +16,7 @@ Django==2.1
 django-formtools==2.1
 dnspython==1.16.0
 docutils==0.14
-eventlet==0.24.1
+eventlet==0.31.0
 Flask==1.0.2
 Flask-Cors==3.0.4
 flask-opencv-streamer==1.4
